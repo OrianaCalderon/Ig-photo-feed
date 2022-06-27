@@ -1,0 +1,22 @@
+
+body{ background-color: white;
+    padding: 0%;
+    margin: 0px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Roboto', sans-serif;}
+h1{margin: 0px;}
+.titulo{padding: 10px;}
+
+.titulo {text-align: center;}
+
+.header1 {display: flex; padding: 5px;
+    justify-content: space-between;}
+.header { display: flex; padding: 5px;
+    justify-content: space-between; margin-bottom: 6em;}
+.contenido { height:auto ;align-items: center; flex-direction: column; display: flex; background-color:  gainsboro;}
+
+.post1{ width: 550px; height: auto; margin-bottom: 4em; background-color: white;}  
+.post{ width: 550px; height: auto; margin-bottom: 4em; margin-top: 4em; background-color: white;}
+.fechapost1{color: gray; padding: 1em;}
+.texto1, .titulopost1 {padding: 1em;}
+.img{margin-bottom: 6em;}
